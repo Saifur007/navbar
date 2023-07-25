@@ -4,3 +4,10 @@
     box-sizing: border-box;
 }
 
+nav ul li a {
+    text-decoration: none;
+}
+
+.red {
+    
+}
